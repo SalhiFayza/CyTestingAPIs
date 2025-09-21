@@ -130,10 +130,10 @@ npm run cy:open
 ```bash
 npm run cy:run
 ```
-<img width="1177" height="592" alt="Screenshot from 2025-09-21 19-04-38" src="https://github.com/user-attachments/assets/495dbe75-bc55-4f88-87cf-2757e2d15e2f" />
 <img width="740" height="245" alt="Screenshot from 2025-09-21 21-14-56" src="https://github.com/user-attachments/assets/fda4b468-9c81-418b-963b-643008bc11d5" />
 <img width="740" height="245" alt="Screenshot from 2025-09-21 21-15-18" src="https://github.com/user-attachments/assets/00cc4cc8-61a3-4254-a422-ef1595dea242" />
 <img width="740" height="245" alt="Screenshot from 2025-09-21 21-15-37" src="https://github.com/user-attachments/assets/017d6c89-5ca3-4a7d-b89f-98638342c67e" />
+<img width="733" height="224" alt="image" src="https://github.com/user-attachments/assets/5cb4d8bf-5c09-471c-995f-c245b41563ad" />
 
 ---
 
@@ -200,6 +200,7 @@ module.exports = { generateEmail, generatePassword };
 - **Search Product**: POST (with/without params)  
 - **Login**: POST (valid, invalid, missing params), DELETE  
 - **User Account**: Create (POST), Update (PUT), Delete (DELETE), Get by email (GET)  
+<img width="1177" height="592" alt="Screenshot from 2025-09-21 19-03-32" src="https://github.com/user-attachments/assets/6be6907d-0b00-4daf-aadd-7f34b6cc5251" />
 
 ---
 
